@@ -4,6 +4,6 @@
     "username": "user12345",
     "password": "user12345",
     "expiresAt": "2025-12-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
